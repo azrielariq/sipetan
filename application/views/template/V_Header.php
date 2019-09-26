@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Data Desa</title>
+  <title>Sipetan</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -31,9 +31,9 @@
       <!-- Logo -->
       <a href="<?php echo base_url() ?>" class="logo">
         <!-- mini logo for sidebar mini 50x50 pixels -->
-        <span class="logo-mini"><b>D</b>D</span>
+        <span class="logo-mini"><b>SPT</b></span>
         <!-- logo for regular state and mobile devices -->
-        <span class="logo-lg"><b>Data</b>Desa</span>
+        <span class="logo-lg"><b>SIPETAN</b></span>
       </a>
 
       <!-- Header Navbar -->
