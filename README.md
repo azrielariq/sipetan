@@ -1,2 +1,0 @@
-# sipetan
- Sistem Pengelola Jimpitan
